@@ -15,22 +15,19 @@ There should be no necessary libraries to run the code here beyond the Anaconda 
 
 For this project, I was interestested in using Stack Overflow data from 2020 to better understand the differences between female and male developers:
 
-1. Whats the difference in income of female and male developers regarding their experience?
-2. How female developers suggested breaking into the field compared to suggestions of male developers?
-3. Does gender bias played a role in the suggestions of developers in how to break into the field?
-
-The full set of files related to this course are owned by Udacity, so they are not publicly available here.  However, you can see pieces of the analysis here.  
-
+1. Whats the difference in income of professional female and male developers?
+2. What was the difference in income in the past years?
+3. How is salary distributed in terms of professional coding experience?
+4. Is there a gender bias in female and male incomes?
+ 
 
 ## File Descriptions <a name="files"></a>
 
-There are 3 notebooks available here to showcase work related to the above questions.  Each of the notebooks is exploratory in searching through the data pertaining to the questions showcased by the notebook title.  Markdown cells were used to assist in walking through the thought process for individual steps.  
-
-There is an additional `.py` file that runs the necessary code to obtain the final model used to predict salary.
+There are 4 notebooks available here to showcase work related to the above questions.  Each of the notebooks is exploratory in searching through the data pertaining to the questions showcased by the notebook title.  Markdown cells were used to explain the individual steps.  
 
 ## Results<a name="results"></a>
 
-The main findings of the code can be found at the post available [here](https://medium.com/@josh_2774/how-do-you-become-a-developer-5ef1c1c68711).
+The main findings of the code can be found at the post available [here](https://medium.com/@annatrumm/how-tech-makes-women-close-the-gender-pay-gap-2b306de4b965?sk=61e0c51593b98564e5805ad02f2eafcc).
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
